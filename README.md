@@ -1,6 +1,6 @@
-##Minhas Redes
+## Minhas Redes
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/](https://www.linkedin.com/in/rodolfo-falcao-a057902aa/))](https://www.linkedin.com/in/anirudhemmadi](https://www.linkedin.com/in/rodolfo-falcao-a057902aa/))
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/](https://www.linkedin.com/in/rodolfo-falcao-a057902aa/))]((https://www.linkedin.com/in/rodolfo-falcao-a057902aa/))
 [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=[https://www.instagram.com/the.rodyy/))]([https://www.instagram.com/the.rodyy/))
 
 ---
