@@ -1,7 +1,8 @@
 ### Sobre Min:
-Ola, meu nome e rodolfo
--Gosto de design, programacao e um pouco de cybersec ah, sim sei que sao muitas areas diferentes,
+Ola, meu nome e rodolfo 
+Gosto de design, programacao e um pouco de cybersec ah, sim sei que sao muitas areas diferentes,
 para ficar mais claro meu foco e no Front-end.
+---
 Para mais informacoes acesse rodydev.com.br (Site offline atualmente.)
 
 ### 😀Contact
