@@ -1,7 +1,7 @@
 ### Sobre Min:
 ---
 Ola, meu nome e rodolfo 
-Tenho um foco no Front-end mais tenho interesse em outras areas tambem, espero que goste do meu github!.
+Tenho um foco no Front-end mais tenho curto de tudo um pouco apesar do meu foco ser no (Front-end), espero que goste do meu github!.
 ---
 Para mais informacoes acesse rodydev.com.br (Site offline atualmente.)
 
