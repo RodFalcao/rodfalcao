@@ -1,7 +1,8 @@
 ### Sobre Min:
 Ola, meu nome e rodolfo
-Gosto de design, programacao e um pouco de cybersec
-Para mais informacoes acesse rodydev.com.br
+-Gosto de design, programacao e um pouco de cybersec ah, sim sei que sao muitas areas diferentes,
+para ficar mais claro meu foco e no Front-end.
+Para mais informacoes acesse rodydev.com.br (Site offline atualmente.)
 
 ### 😀Contact
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ctrlrody/)
