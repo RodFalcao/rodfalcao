@@ -1,55 +1,29 @@
-### About me:
+### Sobre min
 ---
-I am CtrlRody i am from brazil,
-i am an front-end developer!
+Ola, seja bem vindo ao meu github!
+Me chamo rodolfo, mas pode me chamar de rody
 ---
-feel free to see my github page or use my public projects!
+Mais informacoes rodydev.com.br (offline)
 ---
-For more info rodydev.com.br (offline)
-
-### Contact
+### Contato
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ctrlrody/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfo-falcao-a057902aa/)
 [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/trgYVkF2H7)
 ---
-### Most used technologies
+### linguagens mais utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodFalcao&layout=compact&bg_color=2C2F33)](https://github.com/anuraghazra/github-readme-stats)
 --
 ### Tecnologies
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
-           <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-  </tr>
- <tr>
- </tr>
-</table>
-<br><br>
-</div>
+
+[![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://discord.com/users/973041400465727488/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://discord.com/users/973041400465727488/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://discord.com/users/973041400465727488/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://discord.com/users/973041400465727488/)
+[![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://discord.com/users/973041400465727488/)
+[![Css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://discord.com/users/973041400465727488/)
+[![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://discord.com/users/973041400465727488/)
+
+## Mais informações!
+
+- [Discord](https://discord.com/users/1204502635755868234/)
+- [Server](https://discord.gg/j8yy9xeyAf)
