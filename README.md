@@ -15,7 +15,6 @@ Mais informacoes rodydev.com.br (offline)
 --
 ### Tecnologies
 
-[![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://discord.com/users/973041400465727488/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://discord.com/users/973041400465727488/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://discord.com/users/973041400465727488/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://discord.com/users/973041400465727488/)
