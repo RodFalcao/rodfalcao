@@ -1,7 +1,7 @@
 
 Seja bem vindo ao meu github!
 ---
-Me chamo rodolfo, mas pode me chamar de rody
+Me chamo rodolfo, Sou um desenvolvedor web e um ui/ux designer que atualmente esta estudando!
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ctrlrody/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfo-falcao-a057902aa/)
