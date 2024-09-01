@@ -1,28 +1,47 @@
 
-Seja bem vindo ao meu github!
----
-Me chamo rodolfo, Sou um desenvolvedor web e um ui/ux designer que atualmente esta estudando!
+  
+#
+<h3 align="center"> 👨🏻‍💻 &nbsp;About Me/ Sobre min</h3>
 
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ctrlrody/)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfo-falcao-a057902aa/)
-[![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/trgYVkF2H7)
----
-### Desenvolvimento web
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- 🤔 &nbsp; Exploring new technologies.
+- 🌱 &nbsp; Learning in Rocketseat.
+#
 
-### Estudando
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
----
-### linguagens mais utilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodFalcao&layout=compact&bg_color=2C2F33)](https://github.com/anuraghazra/github-readme-stats)
---
-## Mais informações!
+<h3 align="center"> 🛠 &nbsp;Tech Stack/ tecnologias</h3>
+<br/>
 
-  - [Discord](https://discord.com/users/1204502635755868234/)
-  - [Server](https://discord.gg/j8yy9xeyAf)
-  - [WebSite](https://app.ctrlrody.com)
+- 🌐Web &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+- 🛢Database &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- 🖥Design &nbsp;
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=adobe-Figma)
+  
+- 📔Studyng &nbsp;
+  ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
+  ![Intellij IDEA](https://img.shields.io/badge/IntelliJ-333333?style=flat&logo=intellijidea)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+<br/>
+
+#
+<h3 align="center"> ⚙️  GitHub Analytics/ status </h3>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/http-ph">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodfalcao&theme=darcula&show_icons=true" style"max-width: 100%;" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodfalcao&theme=darcula&layout=compact" style"max-width: 100%;" />
+</div>
+  
+  #
+<div align="center">
+  <h3>📲 Contact me/ contato </h3>
+  <br/>
+  <a href="https://discord.com/users/414114974860836864/"><img alt="Discord" src="https://img.shields.io/badge/Discord:%20ctrlrodyy-7289d9?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a></br>
+  
+ </div>
+ 
