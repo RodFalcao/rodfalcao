@@ -41,7 +41,7 @@
 <div align="center">
   <h3>📲 Contact me/ contato </h3>
   <br/>
-  <a href="https://discord.com/users/414114974860836864/"><img alt="Discord" src="https://img.shields.io/badge/Discord:%20ctrlrodyy-7289d9?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a></br>
+  <a href="https://discord.com/users/1204502635755868234/"><img alt="Discord" src="https://img.shields.io/badge/Discord:%20ctrlrodyy-7289d9?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a></br>
   
  </div>
  
