@@ -20,9 +20,7 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=adobe-Figma)
   
 - 📔Studyng &nbsp;
-  ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
   ![Intellij IDEA](https://img.shields.io/badge/IntelliJ-333333?style=flat&logo=intellijidea)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 <br/>
